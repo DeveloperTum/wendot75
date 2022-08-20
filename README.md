@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Tum
-- 👀 I’m interested in software development majorly backend programming..
-- 🌱 I’m currently a freelance software developer ...
-- 💞️ I’m looking to collaborate on software development projects majorly backend using C#,php and Python...
-- 📫 reach me through wendot75@gmail.com.
+- 👀 I’m interested in Software Development majorly FullStack Development.
+- 🌱 I’m currently a freelance software developer looking to collaborate on software development projects.
+-     Skills;
+          HTML & CSS, 
+          Angularjs,
+          Javascript, 
+          PHP,
+          Java.
+- 📫 Reach me through wendot75@gmail.com. 
 
 <!---
 wendot75/wendot75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
